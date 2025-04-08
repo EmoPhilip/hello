@@ -47,4 +47,4 @@ In tearing the place apart with me, baby"
   </tr>
 </table>
 
- ill add to my readme more soon but in the mean while this is a link to my website im makeing http://127.0.0.1:3000/index.html
+ ill add to my readme more soon
